@@ -1,0 +1,18 @@
+Citi bike winter and summer comparision:
+    1. Comparing January and July 2019 Citi bike records, the count of usage in summer is obviously more than winter.
+    2. The growth of customer from winter to summber is much grater than the growth of subscriber from winter to summber.
+    3. The peak hour in summer and winter are the same -- 8 am and 18 pm
+    4. The most popular start and end station is the Grove ST PATH both summer and winter.
+    5. The usage in summer is grater than winter could be one of the reason below -
+        a. More visitor visit during summer vacation
+        b. Students came back to home town during summer vacation
+        c. The weather is more comfortble in summer than winter for biking.
+    6. The most popular stations are mostly close to Grove ST PATH station which conntect to New Youk. People who work/ study in New York
+        and tourist will commute through the station which makes it the most popular station.
+
+Citi bike impact by Covid19 outbreak
+    1. Compare January 2019 and 2020, the usage of citi bike has growen more than 10%
+    2. Based on the growth of January 2019 to 2020, I assume March 2020 will grow approximately 10% from 2019 March. 
+        The usage didn't show much different from March 2019 till Covid outbreak happened. We can see the usage decrease immediately.
+        By the end of March, it become 25%.
+    3. Two maps can give more details for the daily usage change in March 2019 and 2020.  
